@@ -1,0 +1,14 @@
+# Ignore everything except project files
+*
+!.gitignore
+!index.html
+!assets/
+!en/
+!zh/
+!.git/
+
+# Ignore unused image files in root
+d8ee923f-0239-4cf2-a16d-94a6e2a041c7.png
+dff7dd90-aea0-4be3-a5bd-0bf7b8ab4f4d (1).png
+f137361a-1f71-4b90-9a70-7bfe7ceb8acb.png
+
